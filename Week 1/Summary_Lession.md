@@ -1,0 +1,7 @@
+- Giới thiệu môn học
+- Cách đánh giá môn học
+- Kỹ năng mong muốn của thầy cô sau khi kết thúc môn học là ghi chú, ghi chép và tổng hợp kiến thức
+- Nói sâu hơn của môn này : kỹ năng nhìn nhận vấn đề, tư duy khoa học, tư duy phát hiện bài toán để giải, kỹ năng viết proposal
+- Ra được proposal là mục tiêu chính của môn học này
+- Skill : óc quan sát phát hiện vấn đề(opservation), survey => hướng giải quyết, nghĩ ra hướng đề tài
+- Tập nói 2 đến 3 câu điều mình cần làm, cô đọng lại vấn đề
