@@ -1,4 +1,4 @@
-#Survey
+# Survey
 
 1. Hỏi thăm những người xung quanh -> voting
 * Chú ý tập có tính đại diện cao :
